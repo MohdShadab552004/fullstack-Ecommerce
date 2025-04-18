@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "uncut-sans-vf";
+    src: local("Uncut-Sans-VF"),
+    url('./font/Uncut-Sans-VF.ttf') format("truetype");
+
+}
